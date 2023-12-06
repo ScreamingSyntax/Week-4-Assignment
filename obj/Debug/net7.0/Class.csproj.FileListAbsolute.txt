@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\Apple\Class\obj\Debug\net7.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Apple\Class\obj\Debug\net7.0\Class.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Apple\Class\obj\Debug\net7.0\Class.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Apple\Class\obj\Debug\net7.0\Class.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Apple\Class\bin\Debug\net7.0\Class.exe
+C:\Users\Administrator\Documents\Apple\Class\bin\Debug\net7.0\Class.deps.json
+C:\Users\Administrator\Documents\Apple\Class\bin\Debug\net7.0\Class.runtimeconfig.json
+C:\Users\Administrator\Documents\Apple\Class\bin\Debug\net7.0\Class.dll
+C:\Users\Administrator\Documents\Apple\Class\bin\Debug\net7.0\Class.pdb
+C:\Users\Administrator\Documents\Apple\Class\obj\Debug\net7.0\Class.dll
+C:\Users\Administrator\Documents\Apple\Class\obj\Debug\net7.0\refint\Class.dll
+C:\Users\Administrator\Documents\Apple\Class\obj\Debug\net7.0\Class.pdb
+C:\Users\Administrator\Documents\Apple\Class\obj\Debug\net7.0\Class.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Apple\Class\obj\Debug\net7.0\ref\Class.dll
